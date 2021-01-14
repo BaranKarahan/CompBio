@@ -1,0 +1,1 @@
+figures with new in their name has only pathogenic labeled data, while the alternatives of them have likely pathogenic as well.
